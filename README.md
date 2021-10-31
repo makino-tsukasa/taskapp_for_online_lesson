@@ -10,7 +10,7 @@
 * Heroku
 
 ```
-$ git clone https://github.com/sample-874/sample-app.git
+$ git clone git@github.com:makino-tsukasa/taskapp_for_online_lesson.git
 ```
 
 上記のコマンド実行（リポジトリをクローン）後、
@@ -41,4 +41,10 @@ $ rails server
 ユーザーの新規作成やログインなどは既に出来る状態になっているはずです。
 
 * **email** : sample@email.com
+* **password** : password
+
+* **email** : sample-2@email.com
+* **password** : password
+
+* **email** : sample-3@email.com
 * **password** : password
